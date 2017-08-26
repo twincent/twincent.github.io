@@ -1,6 +1,4 @@
-# twincent.co
-
-We are currently in stealth mode.
+We are currently operating in stealth mode. Please check back here soon, or email updates@twincent.co to be added to our mailing list.
 
 
 
