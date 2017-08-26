@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+## twincent
 
-You can use the [editor on GitHub](https://github.com/twincent/twincent.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+We are currently in stealth mode.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Investor Inquiries
 
-```markdown
-Syntax highlighted code block
+Please contact ir@twincent.co
 
-# Header 1
-## Header 2
-### Header 3
+### Press Inquiries
 
-- Bulleted
-- List
+Please contact pr@twincent.co
 
-1. Numbered
-2. List
+### Careers Inquiries
 
-**Bold** and _Italic_ and `Code` text
+Please contact careers@twincent.co
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/twincent/twincent.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Disclaimer
+
+The information contained herein does not constitute an offer to sell, nor the solicitation of any offer to buy any securities, interests or investment advice by Twincent, its affiliates or principals. Such an offering may only be made by means of a confidential offering memorandum, describing the offering, related subscription agreement and risks, and only to investors who meet certain suitability and sophistication requirements, and only in jurisdictions where such an offering would be permissible. 
+
+This document has not been approved or disapproved by (a) the United States Securities and Exchange Commission or any other United States federal or state regulatory authority or (b) any federal or state regulatory authority of any member state of the European Economic Area, and no such commission or authority has passed upon the merits, accuracy or adequacy of this content, nor is it expected that any will. 
+
+The information contained herein does not constitute the provision of investment, tax, legal or other professional advice. No reliance may be placed for any purpose on the information and opinions contained herein for their accuracy or completeness
+Past performance is not indicative of future returns or results, and investing activities carry risk of financial loss. Prior to making any investment, investors should consult with their own investment, accounting, legal and tax advisers to evaluate independently the risks, consequences and suitability of that investment. 
